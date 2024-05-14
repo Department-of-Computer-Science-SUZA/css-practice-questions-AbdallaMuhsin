@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    position: relative;
+}
+
+img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 120px;
+    float: right;
+}
+
+.box {
+    border: 2px solid black;
+}
+p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-stretch: normal;
+}
